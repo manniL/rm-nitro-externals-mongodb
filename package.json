@@ -1,0 +1,12 @@
+{
+  "name": "nitro-externals-mongodb-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "devDependencies": {
+    "mongodb": "^5.0.1",
+    "nitropack-edge": "2.2.2-27941588.be1ac07"
+  }
+}
